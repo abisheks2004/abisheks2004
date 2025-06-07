@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abishek S
 
-Welcome to my GitHub! I'm a passionate **Computer Science & Engineering** student who loves building web apps, exploring Java development, and recreating real-world UIs just for fun and learning 🚀
+Welcome to my GitHub! I'm a passionate **Computer Science & Engineering** student who loves building web apps 🚀
 
 ---
 
