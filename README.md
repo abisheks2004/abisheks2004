@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abishek S
 
-Welcome to my GitHub! I'm a passionate **Computer Science & Engineering** student who loves building web apps 🚀
+Welcome to my GitHub! I'm a passionate Computer Science & Engineering student who loves building web applications 🚀
 
 ---
 
@@ -8,8 +8,7 @@ Welcome to my GitHub! I'm a passionate **Computer Science & Engineering** studen
 
 - 🎓 Pursuing **B.E. in CSE** at **K.S.R. College of Engineering**
 - 🌱 Currently learning: `Node.js`
-- 👨‍💻 I love building:  
-  Web Interfaces · Console Apps · Mini Games · UI Clones
+- 👨‍💻 I love building: Web apps
 - 🛠 Always experimenting with new technologies
 - 📬 Reach me: [abisheka067@gmail.com](mailto:abisheka067@gmail.com)
 
@@ -18,10 +17,10 @@ Welcome to my GitHub! I'm a passionate **Computer Science & Engineering** studen
 ## 🧰 Tech Stack
 
 | Category       | Technologies                             |
-|----------------|------------------------------------------|
+|------------------|------------------------------------------|
 | 💻 Languages    | Java, JavaScript, HTML5, CSS3            |
 | ⚙️ Tools & Libs | React, Tailwind CSS, Git, VS Code        |
-| 🧱 Concepts     | OOP, DOM, Responsive Design, Web APIs    |
+| 🧱 Concepts     | DOM, Responsive Design, Web APIs         |
 
 ---
 
