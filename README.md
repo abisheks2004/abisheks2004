@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm a passionate Computer Science & Engineering student wh
 
 - 🎓 Pursuing **B.E. in CSE** at **K.S.R. College of Engineering**
 - 🌱 Currently learning: `Node.js`
-- 👨‍💻 I love building: Web apps
+- 👨‍💻 I love building: Web apps with interactive UIs
 - 🛠 Always experimenting with new technologies
 - 📬 Reach me: [abisheka067@gmail.com](mailto:abisheka067@gmail.com)
 
@@ -17,35 +17,38 @@ Welcome to my GitHub! I'm a passionate Computer Science & Engineering student wh
 ## 🧰 Tech Stack
 
 | Category       | Technologies                             |
-|------------------|------------------------------------------|
-| 💻 Languages    | Java, JavaScript, HTML5, CSS3            |
-| ⚙️ Tools & Libs | React, Tailwind CSS, Git, VS Code        |
-| 🧱 Concepts     | DOM, Responsive Design, Web APIs         |
+|----------------|------------------------------------------|
+| 💻 Languages   | Java, JavaScript, HTML5, CSS3            |
+| ⚙️ Tools & Libs| React, Tailwind CSS, Git, VS Code        |
+| 🧱 Concepts    | DOM, Responsive Design, Web APIs         |
 
 ---
 
 ## 🚀 Featured Projects
 
+### 🌟 [Abishek Portfolio](https://abishek-portfolio-mcul.vercel.app/)
+An animated, interactive React portfolio with chat-based intro, Lottie character animations, smooth navigation, and responsive design — built with React, Tailwind CSS, and deployed on Vercel.
+
 ### 🎯 [Target Trio](https://abisheks2004.github.io/Target-Trio/)  
-A number-based puzzle game with multiple difficulty modes. Train your brain with logic and arithmetic!
+A number-based puzzle game with multiple difficulty modes. Challenge your logic and arithmetic skills in an engaging way.
 
 ### 🧠 [FSLAKWS](https://github.com/abisheks2004/fslakws)  
-A multilingual keyword spotter using React and Node.js. Detects spoken keywords from audio using few-shot learning and semantic transcription — even across languages.
+A multilingual keyword spotter using React and Node.js. Detects spoken keywords from audio using few-shot learning and semantic transcription across languages.
 
 ### 📷 [Instagram Clone](https://abisheks2004.github.io/instagram-clone/)  
-Replicates the Instagram UI using flexbox and CSS grid techniques for layout precision.
+A responsive Instagram UI replica demonstrating advanced CSS flexbox and grid layouts.
 
 ### 🌐 [Digital Solutions Hub](https://abisheks2004.github.io/Digital_Solutions_Hug/)  
-A clean and modern landing page UI built with Tailwind CSS. Fully responsive and professional looking.
+A modern, fully responsive landing page built with Tailwind CSS, designed for digital service businesses.
 
 ### 📺 [YouTube Clone](https://abisheks2004.github.io/youtube-clone/)  
-A front-end clone of YouTube’s layout using only HTML and CSS.
+A front-end recreation of YouTube’s classic interface using HTML and CSS.
 
-### 👨‍💼 [Portfolio Website](https://abisheks2004.github.io/Portfolio/)  
-A personal portfolio showcasing your design sense, skills, and academic details.
+### 👨‍💼 [Legacy Portfolio Website](https://abisheks2004.github.io/Portfolio/)  
+My previous personal portfolio showcasing my skills, projects, and education.
 
 ### 🛒 [Java Console Shopping App](https://github.com/abisheks2004/Java-Console-App)  
-A console-based Java application simulating online shopping (products, cart, order summary, checkout).
+A console-based Java application simulating an online shopping experience with products, cart, and checkout features.
 
 ---
 
@@ -61,7 +64,7 @@ A console-based Java application simulating online shopping (products, cart, ord
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/abishek-s-3aa542269)
 - 📧 [Email Me](mailto:abisheka067@gmail.com)
-- 🌍 [Visit My Portfolio](https://abisheks2004.github.io/Portfolio/)
+- 🌍 [Visit My Animated Portfolio](https://abishek-portfolio-mcul.vercel.app/)
 
 ---
 
