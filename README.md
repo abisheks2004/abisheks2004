@@ -35,7 +35,7 @@ A number-based puzzle game with multiple difficulty modes. Challenge your logic 
 ### 🧠 [FSLAKWS](https://github.com/abisheks2004/fslakws)  
 A multilingual keyword spotter using React and Node.js. Detects spoken keywords from audio using few-shot learning and semantic transcription across languages.
 
-### 🧠 [Smart Text Corrector](https://smart-text-corrector.onrender.com)  
+### 🤖 [Smart Text Corrector](https://smart-text-corrector.onrender.com)  
 AI-based spelling & grammar corrector using TextBlob and SymSpell with real-time correction, file upload, and yellow highlights.
 
 ### 📷 [Instagram Clone](https://abisheks2004.github.io/instagram-clone/)  
