@@ -7,7 +7,7 @@ Welcome to my GitHub! I'm a passionate Computer Science & Engineering student wh
 ## 💻 About Me
 
 - 🎓 Pursuing **B.E. in CSE** at **K.S.R. College of Engineering**
-- 🌱 Currently learning: `Node.js`
+- 🌱 Currently learning: `Express.js`
 - 👨‍💻 I love building: Web apps with interactive UIs
 - 🛠 Always experimenting with new technologies
 - 📬 Reach me: [abisheka067@gmail.com](mailto:abisheka067@gmail.com)
