@@ -38,20 +38,8 @@ A multilingual keyword spotter using React and Node.js. Detects spoken keywords 
 ### 🤖 [Smart Text Corrector](https://smart-text-corrector.onrender.com)  
 AI-based spelling & grammar corrector using TextBlob and SymSpell with real-time correction, file upload, and yellow highlights.
 
-### 📷 [Instagram Clone](https://abisheks2004.github.io/instagram-clone/)  
-A responsive Instagram UI replica demonstrating advanced CSS flexbox and grid layouts.
-
 ### 🌐 [Digital Solutions Hub](https://abisheks2004.github.io/Digital_Solutions_Hug/)  
 A modern, fully responsive landing page built with Tailwind CSS, designed for digital service businesses.
-
-### 📺 [YouTube Clone](https://abisheks2004.github.io/youtube-clone/)  
-A front-end recreation of YouTube’s classic interface using HTML and CSS.
-
-### 👨‍💼 [Legacy Portfolio Website](https://abisheks2004.github.io/Portfolio/)  
-My previous personal portfolio showcasing my skills, projects, and education.
-
-### 🛒 [Java Console Shopping App](https://github.com/abisheks2004/Java-Console-App)  
-A console-based Java application simulating an online shopping experience with products, cart, and checkout features.
 
 ---
 
