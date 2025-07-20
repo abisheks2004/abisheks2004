@@ -55,7 +55,7 @@ A modern, fully responsive landing page built with Tailwind CSS, designed for di
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/abishek-s-3aa542269)
 - 📧 [Email Me](mailto:abisheka067@gmail.com)
-- 🌍 [Visit My Animated Portfolio](https://abishek-portfolio-mcul.vercel.app/)
+- 🌍 [Visit My Portfolio](https://abishek-portfolio-mcul.vercel.app/)
 
 ---
 
